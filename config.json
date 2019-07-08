@@ -6,7 +6,7 @@
         "tlsEnable": true,
         "adminUser": "admin",
         "adminPassword": "admin",
-        "enableAuthentication": false,
+        "enableAuthentication": true,
         "organization": "Org1",
         "connection": {
             "timeout": {
