@@ -9,7 +9,7 @@
 # Kurulum
 
 - Repodaki crypto-config yerine ,Network klasöründeki crypto-config klasörünü koyun.
-- Repodaki config.jsonu blockchain networkünüzüde göre ayarlayın.
+- Repodaki config.jsonu blockchain networkünüze göre ayarlayın.
 - docker compose up komutu ile hyperledger explorer localhost:8090 portunda çalışacaktır.
 - Hyperledger Explorera admin kullanıcı adı ,ve admin şifresiyle giriş yapabilirsiniz.
 
